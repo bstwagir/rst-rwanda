@@ -5,7 +5,8 @@ import Map from './Map';
 function App() {
   return (
     <div className="App">
-      <h1 className='title'>Ride-Share Tracking Rwanda</h1>
+      <div className='title'><h1>Ride-Share Tracking Rwanda</h1>
+      </div>
       <Map />
     </div>
   );
